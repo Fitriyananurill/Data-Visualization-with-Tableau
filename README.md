@@ -46,12 +46,12 @@ Also displayed on Tableau Public, [here](https://public.tableau.com/app/profile/
 📈 Analytical Approach
 
 - Across all projects, the workflow follows a structured methodology:
-- Raw Data Understanding
-- Data Cleaning & Validation
-- KPI Definition & Metric Modeling
-- Trend & Pattern Identification
-- Interactive Dashboard Development
-- Insight Extraction & Business Interpretation
+  1. Raw Data Understanding
+  2. Data Cleaning & Validation
+  3. KPI Definition & Metric Modeling
+  4. Trend & Pattern Identification
+  5. Interactive Dashboard Development
+  6. Insight Extraction & Business Interpretation
 
 🎯 Skills Demonstrated
 
